@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologías usadas
 * Lenguaje: **C#**
-* Framework: **.NET 10.0**
+* Framework: **.NET 8.0**
 * Hardware de desarrollo: **HP Victus 15**
 
 ## 💻 Cómo ejecutarlo
