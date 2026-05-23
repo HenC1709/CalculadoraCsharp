@@ -9,7 +9,7 @@
 * potencias
 
 # 📂 Estructura del proyecto
-
+```
 CalculadoraV2.0/
 │
 ├── Calculadora/
@@ -19,7 +19,7 @@ CalculadoraV2.0/
 |   └── OperacionesAvanzadas.cs
 |   └── Program.cs
 |   └── User.cs
-```
+
 
 ```
 
