@@ -11,14 +11,14 @@
 # 📂 Estructura del proyecto
 
 CalculadoraV2.0/
-│
 ├── Calculadora/
-│   ├── CalculadoraBasica.cs
-│   └── IMC.cs
-|   └── Operaciones.cs
-|   └── OperacionesAvanzadas.cs
-|   └── Program.cs
-|   └── User.cs
+|   ├── CalculadoraBasica.cs
+|   ├── IMC.cs
+│   ├── Operaciones.cs
+│   ├── OperacionesAvanzadas.cs
+|   ├── Program.cs
+│   └── User.cs
+│
 ```
 
 ```
