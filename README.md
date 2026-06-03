@@ -73,6 +73,7 @@ Incluye:
 - DataTable.Compute()
 
 ---
+```
 
 # 📂 Estructura del Proyecto
 
@@ -89,7 +90,7 @@ CalculadoraWPF/
 ├── MainWindow.xaml
 ├── MainWindow.xaml.cs
 └── App.xaml
-
+```
 ---
 
 # 🖼️ Interfaz gráfica
